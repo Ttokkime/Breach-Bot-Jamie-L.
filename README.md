@@ -10,16 +10,6 @@ This is the Starter Code for Breach Bot!
 - Use a conditional to display three reflections:  your reaction, its connection to the CIA Triad, and your advice.
 - Use a while loop to repeat reflections.
 - Use a break statement to end the while-loops.
-
-### Extensions
-- Add more details and thoughts around your data breach.
-- Paraphrase your statements to teach a community member.
-- Add actionable steps for users to protect their information.
-
-###  Attributions
-*If you used any code, stories, or poems from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. 
-- Add here if applicable
-
 ---
 
 ## File Overview
