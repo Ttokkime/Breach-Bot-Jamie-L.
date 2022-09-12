@@ -1,22 +1,16 @@
-# Breach Bot Starter Code
 
-This is the Starter Code for Breach Bot!
-
-### Project Requirements
-- Your project should:
-- Vary responses based on user input.
-- Use a conditional to identify the details of a data breach and the organization's response.
-- Use a while loop to repeat breach research.
-- Use a conditional to display three reflections:  your reaction, its connection to the CIA Triad, and your advice.
-- Use a while loop to repeat reflections.
-- Use a break statement to end the while-loops.
+### Project
+My project: 
+- Identifies the details of a data breach and an organization's response.
+- Displays three reflections:  my reaction, its connection to the CIA Triad, and my advice for those online.
 ---
 
 ## File Overview
 
 ### ← README.md
 
-README.md file give you more documentation and information about a program. They are super helpful for describing what a program should do, any issues you've encountered, changes you want to make, and more. 
+README.md file give a summary about the program and what it can do.
+
 
 ### ← main.py
-This is where you will write your main program.
+The code used for the Breach Bot.
